@@ -1,6 +1,6 @@
 # Real-time News Subscription Service
 
-**Background:** You're tasked with designing a real-time news subscription service for a media company. The system needs to notify subscribers about breaking news as soon as it's published by the news agency.
+<div align="justify">**Background:** You're tasked with designing a real-time news subscription service for a media company. The system needs to notify subscribers about breaking news as soon as it's published by the news agency.
 
 **Scenario Description:** The system comprises two main components: NewsAgency and Subscriber.
 
@@ -37,4 +37,9 @@ In your solution you must provide the following in your Github link account:
 
     * Problem statement (Description of the problem. Just copy what is stated here.)
     * UML Class Diagram
-    * Uploaded java codes for the solution.
+    * Uploaded java codes for the solution.</div>
+
+### UML Class Diagram:
+
+![UML Class Diagram](https://github.com/user-attachments/assets/857571cc-9607-4e01-95af-dedbffaf7b53)
+
