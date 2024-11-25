@@ -1,6 +1,7 @@
 # Real-time News Subscription Service
 
-<div align="justify">**Background:** You're tasked with designing a real-time news subscription service for a media company. The system needs to notify subscribers about breaking news as soon as it's published by the news agency.
+<div align="justify"> 
+**Background:** You're tasked with designing a real-time news subscription service for a media company. The system needs to notify subscribers about breaking news as soon as it's published by the news agency.
 
 **Scenario Description:** The system comprises two main components: NewsAgency and Subscriber.
 
