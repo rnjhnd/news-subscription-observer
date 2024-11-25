@@ -42,4 +42,3 @@ In your solution you must provide the following in your Github link account:
 ### UML Class Diagram:
 
 ![UML Class Diagram](https://github.com/user-attachments/assets/857571cc-9607-4e01-95af-dedbffaf7b53)
-
