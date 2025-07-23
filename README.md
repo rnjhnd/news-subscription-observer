@@ -33,12 +33,6 @@
    * The system should be scalable to handle a growing number of subscribers without compromising performance.
    * Ensure that the implementation follows object-oriented design principles and promotes loose coupling between the news agency and subscribers.
 
-In your solution you must provide the following in your Github link account:
-
-   * Problem statement (Description of the problem. Just copy what is stated here.)
-   * UML Class Diagram
-   * Uploaded java codes for the solution.
-
 ### **UML Class Diagram:**
 
 ![UML Class Diagram](https://github.com/user-attachments/assets/38df1a11-bb14-4cd1-95f6-151025177f26)
