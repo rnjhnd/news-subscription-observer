@@ -181,7 +181,7 @@ This project demonstrates the **Observer pattern**, which defines a one-to-many 
 ## 📊 UML Class Diagram
 <img width="1996" height="1040" alt="UML Class Diagram" src="https://github.com/user-attachments/assets/f92438bc-eea1-43e5-88c3-5fc6b9e4445f" />
 
-The UML diagram shows the relationships between:
+The diagram shows the relationships between:
 - `NewsAgencySubject` interface and `NewsAgency` implementation
 - `SubscriberObserver` interface and `Subscriber` implementation
 - The subscription relationship between `NewsAgency` and `Subscriber`
