@@ -226,10 +226,6 @@ Contributions are welcome! Here's how you can help improve this project:
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 👨‍💻 Author
-
-This project demonstrates the Observer design pattern implementation for educational purposes.
-
 ---
 
-**Happy Coding! 🚀**
+**Note**: This implementation demonstrates clean code principles and design patterns best practices. The Observer pattern is particularly useful when you need to establish a one-to-many dependency between objects, where changes to one object (subject) need to be automatically communicated to multiple dependent objects (observers) without tight coupling.
