@@ -63,7 +63,7 @@ The system follows the Observer pattern with these core components:
 
 ```
 news-subscription-observer/
-├── ObserverPattern/
+├── src/
 │   ├── Main.java                 # Demo application
 │   ├── NewsAgency.java           # Subject implementation
 │   ├── NewsAgencySubject.java    # Subject interface
